@@ -41,10 +41,10 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Deployments</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            Cloudways, Heroku, Digital Ocean
           </ListParagraph>
         </ListContainer>
       </ListItem>
