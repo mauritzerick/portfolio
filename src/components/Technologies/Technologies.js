@@ -44,7 +44,7 @@ const Technologies = () =>  (
           <ListTitle>Deployments</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Cloudways, Heroku, Digital Ocean
+            Cloudways, Heroku, and Digital Ocean
           </ListParagraph>
         </ListContainer>
       </ListItem>
