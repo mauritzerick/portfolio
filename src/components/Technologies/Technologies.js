@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiFirebase, DiReact, DiDigitalOcean, DiHeroku } from 'react-icons/di';
+import { DiRuby, DiRor, DiPostgresql, DiFirebase, DiReact, DiMongodb, DiDigitalOcean, DiHeroku } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -26,13 +26,17 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <picture>
+          <DiRuby size="3rem" />
+          <DiRor size="3rem" />
           <DiFirebase size="3rem" />
+          <DiPostgresql size="3rem" />
+          <DiMongodb size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Ruby on Rails and Databases
           </ListParagraph>
         </ListContainer>
       </ListItem>
