@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiRuby, DiRor, DiPostgresql, DiFirebase, DiReact, DiMongodb, DiDigitalOcean, DiHeroku } from 'react-icons/di';
+import { DiHtml53DEffects, DiCss3, DiJavascript, DiLaravel, DiRuby, DiRor, DiPostgresql, DiFirebase, DiReact, DiMongodb, DiDigitalOcean, DiHeroku, DiVisualstudio, DiGithubBadge } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -8,19 +8,23 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I've worked with a range a technologies in the web development world.
-      From Back-end To Design
+      I've worked with a range of technologies in the web development world.
+      From full-stack, deployment sites, and IDE tools.
     </SectionText>
     <List>
       <ListItem>
         <picture>
+          <DiHtml53DEffects size="3rem" />
+          <DiCss3 size="3rem" />
+          <DiJavascript size="3rem" />
+          <DiLaravel size="3rem" />
           <DiReact size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            HTML, CSS, JS, Laravel, and React.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -44,12 +48,14 @@ const Technologies = () =>  (
         <picture>
           <DiDigitalOcean size="3rem" />
           <DiHeroku size="3rem" />
+          <DiVisualstudio size="3rem" />
+          <DiGithubBadge size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>Deployments</ListTitle>
+          <ListTitle>Deployments and Tools</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Cloudways, Heroku, and Digital Ocean
+            Heroku, Digital Ocean, VS.Code, and GitHub.
           </ListParagraph>
         </ListContainer>
       </ListItem>
