@@ -5,7 +5,7 @@ export const projects = [
       image: '/images/1.png',
       tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://github.com/mauritzerick/project0',
-    visit: 'https://google.com',
+    visit: 'https://mauritzerick.github.io/project0/',
     id: 0,
   },
   {
@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/mauritzerick/project1',
-    visit: 'https://google.com',
+    visit: 'https://jobboardify.herokuapp.com/',
     id: 1,
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
     source: 'https://github.com/mauritzerick/AUNEWS-CLIENT',
-    visit: 'https://google.com',
+    visit: 'https://bnpm-client.herokuapp.com/',
     id: 2,
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     image: '/images/4.jpg',
     tags: ['Blade', 'Laravel', 'Node.JS'],
     source: 'https://github.com/mauritzerick/EMS',
-    visit: 'https://google.com',
+    visit: 'http://phplaravel-610700-1978850.cloudwaysapps.com/login',
     id: 3,
   },
 ];
