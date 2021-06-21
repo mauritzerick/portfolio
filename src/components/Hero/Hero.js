@@ -12,7 +12,7 @@ const Hero = (props) => (
           Hi, <br />
           I am Mauritz! <br />
           A highly focused <br />
-          Full-Stack Software Engineer.
+          Software Engineer.
         </SectionTitle>
         <SectionText>
         {/* The purpose of JavaScript Mastery is to help aspiring and established developers to take their development skills to the next level and build awesome apps. */}
