@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Tic Tac Toe',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
+    description: "Classic tic-tac-toe game with 3 x 3 game-board which can be played by 2 players with a trackable win counter.",
       image: '/images/1.png',
       tags: ['HTML', 'CSS', 'Javascript'],
     source: 'https://google.com',
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'Job-Boardify',
-    description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    description:"An online job-board where anyone looking to get hired can come and search for the perfect position. If you are an employee, you can sign up and post a job with a fee (Stripe API implementation).",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     title: 'BNPM-News',
-    description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
+    description: "A news reader web app with live cryptocurrency and weather tracker for people who like to keep themselves up-to-date with global news all around the world. ",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
     source: 'https://google.com',
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     title: 'GA-EMS',
-    description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    description: "GA - EMS is a web app used to manage employees permission with robust authentication and access management system. This project is based on CRUD system with added mail management system.",
     image: '/images/4.jpg',
     tags: ['Blade', 'Laravel', 'Node.JS'],
     source: 'https://google.com',
