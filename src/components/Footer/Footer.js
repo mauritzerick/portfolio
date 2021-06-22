@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     
     <FooterWrapper>
-      <SectionTitle main>Contact Me</SectionTitle>
+      <SectionTitle main>Let's Connect!</SectionTitle>
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
