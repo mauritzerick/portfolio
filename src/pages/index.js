@@ -10,12 +10,17 @@ import React from 'react';
 import Page from '../components/Title/Title';
 
 
-
-
+import Head from 'next/head'
 
 const Home = () => {
   return (
-    <Layout>
+    <div>
+      <Head>
+        <title>mauritzerick</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </Head>
+
+      <Layout>
       <Section grid>
         <Hero />
         <BgAnimation />
@@ -25,6 +30,8 @@ const Home = () => {
       <Technologies />
       <Acomplishments />
     </Layout>
+    </div>
+   
   );
   
 };
