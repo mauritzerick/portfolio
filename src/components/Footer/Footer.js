@@ -8,6 +8,7 @@ const Footer = () => {
   return (
     
     <FooterWrapper>
+      <SectionDivider colorAlt />
       <SectionTitle main>Let's connect!</SectionTitle>
       <LinkList>
         <LinkColumn>
