@@ -123,7 +123,7 @@ const BackgroundAnimation = () => (
         stroke="url(#paint5_linear)"
       >
         <animateMotion
-          dur="10s"
+          dur="1s"
           begin="1"
           repeatCount="indefinite"
           rotate="auto"
@@ -140,7 +140,7 @@ const BackgroundAnimation = () => (
         fill="#F46737"
       >
         <animateMotion
-          dur="5s"
+          dur="1s"
           begin="0"
           repeatCount="indefinite"
           rotate="auto"
@@ -154,7 +154,7 @@ const BackgroundAnimation = () => (
         stroke="url(#paint6_linear)"
       >
         <animateMotion
-          dur="5s"
+          dur="1s"
           begin="0"
           repeatCount="indefinite"
           rotate="auto"
@@ -171,7 +171,7 @@ const BackgroundAnimation = () => (
         fill="#F46737"
       >
         <animateMotion
-          dur="10s"
+          dur="1s"
           begin="3"
           repeatCount="indefinite"
           rotate="auto"
