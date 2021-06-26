@@ -18,7 +18,6 @@ const Technologies = () =>  (
           <DiLaravel size="3rem" />
           <DiCss3 size="3rem" />
           <DiJavascript size="3rem" />
-          
         </picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
@@ -34,7 +33,6 @@ const Technologies = () =>  (
           <DiRor size="3rem" />
           <DiFirebase size="3rem" />
           <DiPostgresql size="3rem" />
-          <DiMongodb size="3rem" />
         </picture>
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
