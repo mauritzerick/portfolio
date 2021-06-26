@@ -14,11 +14,11 @@ const Technologies = () =>  (
     <List>
       <ListItem>
         <picture>
-          <DiHtml53DEffects size="3rem" />
+          <DiReact size="3rem" />
+          <DiLaravel size="3rem" />
           <DiCss3 size="3rem" />
           <DiJavascript size="3rem" />
-          <DiLaravel size="3rem" />
-          <DiReact size="3rem" />
+          
         </picture>
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
