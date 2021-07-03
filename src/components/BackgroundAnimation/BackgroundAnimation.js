@@ -202,7 +202,7 @@ const BackgroundAnimation = () => (
         fill="#13ADC7"
       >
         <animateMotion
-          dur="10s"
+          dur="1000s"
           begin="4"
           repeatCount="indefinite"
           rotate="auto"
