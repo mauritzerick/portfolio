@@ -9,7 +9,7 @@ const Footer = () => {
     
     <FooterWrapper>
       <SectionDivider colorAlt />
-      <SectionTitle main>Let's connect!</SectionTitle>
+      <SectionTitle main>Let's connect and work together!</SectionTitle>
       <LinkList>
         <LinkColumn>
           <LinkTitle>Mobile</LinkTitle>
